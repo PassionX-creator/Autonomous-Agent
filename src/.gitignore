@@ -44,3 +44,7 @@ build/
 # =========================
 .DS_Store
 Thumbs.db
+# Ignore secret test files
+backend/test_openai.py
+backend/test_anthropic.py
+backend/test_gemini.py
