@@ -48,3 +48,5 @@ Thumbs.db
 backend/test_openai.py
 backend/test_anthropic.py
 backend/test_gemini.py
+cleaned-repo/
+git-filter-repo/
